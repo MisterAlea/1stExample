@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">1stExample</string>
     <string name="message">Hallo an Alle!</string>
+    <string name="_2ndmessage">Die zweite Zeile in dieser Activity. Diesmal mit einem sehr langen Text, der umgebrochen werden muss.</string>
 </resources>
